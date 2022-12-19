@@ -27,18 +27,23 @@ $new_requests_title = "Envoyer une demande";
 $new_requests_form1_title = "Voulez vous contacter notre Support ou bien souhaitez vous joindre notre équipe des Certificateurs de Bots";
 $new_requests_form1_select_1 = "Aide & Support";
 $new_requests_form1_select_2 = "Certificateurs de Bots";
+$new_requests_form1_select_3 = "Facturation";
 
 $new_requests_form2_title = "Type de question ?";
 $new_requests_form2_select_1 = "Question Générale";
 $new_requests_form2_select_2 = "Problème d'ajout du robot au serveur";
 $new_requests_form2_select_3 = "Erreurs de traduction";
-$new_requests_form2_select_4 = "VIP / Watchbot VIP";
 
 $new_requests_form3_title = "Type de question ?";
 $new_requests_form3_select_1 = "Question sur la Vérification des Bots";
 $new_requests_form3_select_2 = "Question sur les Pages des Bots";
 $new_requests_form3_select_3 = "Lier vos robots Discord sur la même page";
 $new_requests_form3_select_4 = "Autre question";
+
+$new_requests_form31_title = "Type de question ?";
+$new_requests_form31_select_1 = "Problème sur un paiement";
+$new_requests_form31_select_2 = "Transférer mon abonnement";
+$new_requests_form31_select_3 = "Autre question";
 
 $new_requests_form4_title = "Sujet";
 
