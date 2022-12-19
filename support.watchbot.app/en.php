@@ -27,18 +27,23 @@ $new_requests_title = "Submit a request";
 $new_requests_form1_title = "Would you like to contact our Support or wish to contact our team of Bots Certifiers";
 $new_requests_form1_select_1 = "Help & Support";
 $new_requests_form1_select_2 = "Bots Certifiers";
+$new_requests_form1_select_3 = "Billing";
 
 $new_requests_form2_title = "Type of question?";
 $new_requests_form2_select_1 = "General Question";
 $new_requests_form2_select_2 = "Problem adding the robot to the server";
 $new_requests_form2_select_3 = "Translation errors";
-$new_requests_form2_select_4 = "VIP / Watchbot VIP";
 
 $new_requests_form3_title = "Type of question?";
 $new_requests_form3_select_1 = "Question about bot verification";
 $new_requests_form3_select_2 = "Question about Bot Pages";
 $new_requests_form3_select_3 = "Link your Discord bots on the same page";
 $new_requests_form3_select_4 = "Another question";
+
+$new_requests_form31_title = "Type of question?";
+$new_requests_form31_select_1 = "Problem with a payment";
+$new_requests_form31_select_2 = "Transfer my subscription";
+$new_requests_form31_select_3 = "Another question";
 
 $new_requests_form4_title = "Subject";
 
