@@ -160,10 +160,12 @@
         "billtxt6": "facturé tous les 6 mois",
         "reco": "Recommandé",
         "block1": {
+          "pl": "Plan mensuel",
           "btn": "Obtenez l'offre VIP"
         },
         "block2": {
-          "btn": "Obtenez l'offre VIP+"
+          "pl": "Plan semestriel",
+          "btn": "Obtenez l'offre VIP"
         }
       },
       "table": {
@@ -932,9 +934,12 @@
         "billtxt1": "facturé tous les mois",
         "billtxt6": "facturé tous les 6 mois",
         "reco": "Recommandé",
+        "plan1": "Plan mensuel",
+        "plan2": "Plan semestriel",
         "payment": [
           "Paiement",
-          "avec PayPal"
+          "avec PayPal",
+          "avec Stripe"
         ]
       },
       "advantages": {
