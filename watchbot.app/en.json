@@ -598,6 +598,7 @@
             "Bot Status",
             "Bot Status page"
           ],
+          "status": ["ONLINE", "OFFLINE"],
           "defaultMessage": "{emojis.status} | {bot.mention} ({bot.tag}) is **{bot.status}**",
           "block": {
             "titles": ["Response", "Embed color"],
@@ -785,7 +786,8 @@
       "sub": {
         "title": "Subscription and Billing",
         "sub": "Subscription",
-        "dueDate": "Due date:"
+        "dueDate": "Due date:",
+        "payments_history": "Payments History (last 30 days)"
       },
       "blocks": {
         "rec": "per month",
