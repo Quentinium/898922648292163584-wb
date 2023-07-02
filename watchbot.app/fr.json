@@ -306,7 +306,10 @@
       ]
     },
     "cookies": {
-      "author": ["Watchbot", "une filiale de Mareel Group."],
+      "author": [
+        "Watchbot",
+        "une filiale de Mareel Group."
+      ],
       "title": "Avant d'accéder à Watchbot",
       "text": [
         "Mareel Group. utilise les cookies et d'autres données pour :",
@@ -711,6 +714,10 @@
             "Statut du bot",
             "Page de statut du bot"
           ],
+          "status": [
+            "EN LIGNE",
+            "HORS LIGNE"
+          ],
           "defaultMessage": "{emojis.status} | {bot.mention} ({bot.tag}) est **{bot.status}**",
           "block": {
             "titles": [
@@ -927,7 +934,8 @@
       "sub": {
         "title": "Abonnement et Facturation",
         "sub": "Abonnement",
-        "dueDate": "Date d'échéance :"
+        "dueDate": "Date d'échéance :",
+        "payments_history": "Historique de paiements (30 derniers jours)"
       },
       "blocks": {
         "rec": "par mois",
