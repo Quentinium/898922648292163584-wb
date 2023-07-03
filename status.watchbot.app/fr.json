@@ -6,7 +6,8 @@
   "noinci": "Pas d'incidents reportés ce jour.",
   "mo": "Panne Majeure",
   "po": "Panne Partielle",
-
+  "ma": "Maintenance",
+  "dp": "Performances dégradées",
   "ifx": "RAPPORT D'INCIDENT POUR",
   "res": "Résolu",
   "mon": "En surveillance",
@@ -14,7 +15,6 @@
   "ide": "Identifié",
   "upd": "Mise à Jour",
   "posted": "Posté",
-
   "certified": "Certifié",
   "partner": "Partenaire",
   "inci_inprog": "Incident en cours"
