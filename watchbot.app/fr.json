@@ -534,7 +534,9 @@
           "title": "Type de l'incident",
           "typeList": [
             "Panne Partielle",
-            "Panne Majeure"
+            "Panne Majeure",
+            "Maintenance",
+            "Performances dégradées"
           ]
         },
         "form-group3": {
@@ -553,7 +555,9 @@
           "title": "Modifier le type de l'incident",
           "typeList": [
             "Panne Partielle",
-            "Panne Majeure"
+            "Panne Majeure",
+            "Maintenance",
+            "Performances dégradées"
           ]
         },
         "form-group2": {
