@@ -6,6 +6,8 @@
   "noinci": "No incidents reported this day.",
   "mo": "Major Outage",
   "po": "Partial Outage",
+  "ma": "Maintenance",
+  "dp": "Degraded performance",
 
   "ifx": "INCIDENT REPORT FOR",
   "res": "Resolved",
