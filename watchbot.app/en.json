@@ -427,7 +427,9 @@
           "title": "Type of incident",
           "typeList": [
             "Partial Outage",
-            "Major Outage"
+            "Major Outage",
+            "Maintenance",
+            "Degraded performance"
           ]
         },
         "form-group3": {
@@ -446,7 +448,9 @@
           "title": "Edit the type of incident",
           "typeList": [
             "Partial Outage",
-            "Major Outage"
+            "Major Outage",
+            "Maintenance",
+            "Degraded performance"
           ]
         },
         "form-group2": {
