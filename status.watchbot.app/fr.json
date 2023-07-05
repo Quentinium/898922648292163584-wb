@@ -8,6 +8,8 @@
   "po": "Panne Partielle",
   "ma": "Maintenance",
   "dp": "Performances dégradées",
+  "cinci": "Incident en cours",
+  "sysop": "Tous les systèmes sont opérationnels",
   "ifx": "RAPPORT D'INCIDENT POUR",
   "res": "Résolu",
   "mon": "En surveillance",
