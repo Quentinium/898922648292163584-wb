@@ -6,7 +6,10 @@
   "noinci": "Nenhum incidente relatado neste dia.",
   "mo": "Grande Interrupção",
   "po": "Interrupção parcial",
-
+  "ma": "Manutenção",
+  "dp": "Desempenho degradado",
+  "cinci": "Incidente em andamento",
+  "sysop": "Todos os sistemas estão operacionais",
   "ifx": "RELATÓRIO DE INCIDENTE PARA",
   "res": "Resolvido",
   "mon": "Monitorando",
@@ -14,7 +17,6 @@
   "ide": "Identificado",
   "upd": "Atualização",
   "posted": "Publicado",
-
   "certified": "Certificado",
   "partner": "Parceiro",
   "inci_inprog": "Incidente em andamento"
