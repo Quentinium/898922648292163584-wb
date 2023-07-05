@@ -534,7 +534,9 @@
           "title": "Tipo de incidente",
           "typeList": [
             "Interrupção Parcial",
-            "Grande Interrupção"
+            "Grande Interrupção",
+            "Manutenção",
+            "Desempenho degradado"
           ]
         },
         "form-group3": {
@@ -553,7 +555,9 @@
           "title": "Edite o tipo de incidente",
           "typeList": [
             "Interrupção Parcial",
-            "Grande Interrupção"
+            "Grande Interrupção",
+            "Manutenção",
+            "Desempenho degradado"
           ]
         },
         "form-group2": {
