@@ -534,7 +534,9 @@
           "title": "Typ des Vorfalls",
           "typeList": [
             "teilweiser Ausfall",
-            "großer Ausfall"
+            "großer Ausfall",
+            "Wartung",
+            "Beeinträchtigte Leistung"
           ]
         },
         "form-group3": {
@@ -553,7 +555,9 @@
           "title": "Typ des Vorfalls bearbeiten",
           "typeList": [
             "teilweiser Ausfall",
-            "großer Ausfall"
+            "großer Ausfall",
+            "Wartung",
+            "Beeinträchtigte Leistung"
           ]
         },
         "form-group2": {
