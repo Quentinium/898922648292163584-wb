@@ -9,6 +9,9 @@
   "ma": "Maintenance",
   "dp": "Degraded performance",
 
+  "cinci": "Incident in progress",
+  "sysop": "All systems are operational",
+
   "ifx": "INCIDENT REPORT FOR",
   "res": "Resolved",
   "mon": "Monitoring",
