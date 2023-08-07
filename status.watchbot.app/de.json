@@ -1,10 +1,10 @@
 {
-  "norobot": "Dieser Roboter wird nicht von Watchbot überwacht.",
+  "norobot": "Dieser Bot wird nicht von Watchbot überwacht.",
   "d90": "vor 90 Tagen",
   "dtoday": "Heute",
-  "pinci": "vergangene Vorfälle",
+  "pinci": "VERGANGENE VORFÄLLE",
   "noinci": "Keine Vorfälle berichtet für heute.",
-  "mo": "großer Ausfall",
+  "mo": "Großer Ausfall",
   "po": "Teilausfall",
   "ma": "Wartung",
   "dp": "Beeinträchtigte Leistung",
