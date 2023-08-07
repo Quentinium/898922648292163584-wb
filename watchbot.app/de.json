@@ -44,11 +44,11 @@
       "title": {
         "title": "Überwache Bots auf deinem Discord Server!",
         "desc": [
-          "Konfiguriere Watchbot in 5 Minuten mit unserem schnellen und intuitiven Dashboard",
+          "Konfiguriere Watchbot mit unserem schnellen und intuitiven Dashboard in nur 5 Minuten",
           "KOSTENLOS"
         ],
         "buttons": [
-          "Hinzufügen auf deinen Server",
+          "Zu deinem Server hinzufügen",
           "Features ansehen"
         ]
       },
@@ -57,25 +57,25 @@
       },
       "pres": {
         "block1": {
-          "title": "verschiedene Benachrichtigungssysteme",
+          "title": "Verschiedene Benachrichtigungssysteme",
           "desc": "Wir haben 5 Arten von Benachrichtigungen: Discord Kanal, Private Nachricht, E-Mail, die Telegram App oder Discord Webhook."
         },
         "block2": {
           "title": "Status-Seite",
-          "desc": "Mit Wathbot kannst du die Betriebszeit eines Bots und seine Vorfälle in den letzten 90 Tagen anzeigen."
+          "desc": "Mit Watchbot kannst du die Betriebszeit eines Bots und dessen Vorfälle der letzten 90 Tagen anzeigen."
         }
       },
       "lang": {
-        "title": "Watchbot ist verfügbar in diesen Sprachen :",
+        "title": "Watchbot ist in diesen Sprachen verfügbar:",
         "desc": [
           "Derzeit beobachten wir",
-          "serveurs pour près de",
-          "nutzer."
+          "Server für etwa",
+          "Nutzer."
         ]
       },
       "partners": {
         "title": "Partner",
-        "btn": "erfahre mehr"
+        "btn": "Erfahre mehr"
       }
     },
     "certification": {
@@ -92,7 +92,7 @@
         },
         "block2": {
           "title": "Behalte die Ausfallzeiten deines Bots im Auge",
-          "desc": "Beobachte die Ausfälle deines Bots, um sie im Auge zu behalten. Du bist der Boss!"
+          "desc": "Beobachte die Ausfälle deines Bots, um immer auf dem Laufenden zu bleiben. Du bist der Boss!"
         },
         "block3": {
           "title": "Benachrichtige deine Community im Falle eines Vorfalls",
@@ -104,15 +104,15 @@
         "questions": {
           "question1": {
             "title": "Ich bin ein Fan eines Bots, aber nicht der Besitzer. Kann ich ihn zertifizieren lassen?",
-            "response": "Nein, nur der Roboterbesitzer kann es zertifizieren lassen."
+            "response": "Nein, nur der Botbesitzer kann diesen zertifizieren lassen."
           },
           "question2": {
             "title": "Was brauche ich, um meinen Bot zertifizieren zu lassen?",
-            "response": "Um die Zertifizierung deines Bots zu erhalten, musst du Watchbot zu deinem Server hinzufügen;)"
+            "response": "Um die Zertifizierung für deinen Bot zu erhalten, musst du Watchbot zu deinem Server hinzufügen ;)"
           },
           "question3": {
             "title": "Ich habe eine Frage, wo kann ich Sie kontaktieren?",
-            "response": "Du kannst uns kontaktieren unter"
+            "response": "Du kannst uns hier kontaktieren:"
           }
         }
       }
@@ -122,16 +122,16 @@
       "title": {
         "title": "Der beste Überwachungsbot.",
         "desc": [
-          "Beginne damit deine Bots zu überwachen und benachrichtigt zu werden.",
-          "schnell",
-          "während eines Vorfalls."
+          "Beginne damit deine Bots zu überwachen und während eines Vorfalls benachrichtigt zu werden.",
+          "Schnelligkeit",
+          "ist der Schlüssel!"
         ],
-        "btn": "hinzufügen zu Discord"
+        "btn": "Zu Discord hinzufügen"
       },
       "pres": {
         "block1": {
           "title": "WSync",
-          "desc": "Wsync, eine nice Nachricht genannt 'Embed' in deinem Lieblingskanal aktualisiert alle 5 Minuten mit den letzten Betriebszeiten. Sei der Könif vom überwachen !"
+          "desc": "Wsync, eine nice Nachricht genannt 'Embed' in deinem Lieblingskanal, die alle 5 Minuten mit dem neusten Status aktualisiert wird. Sei der König des überwachens!"
         },
         "block2": {
           "title": "Verschiedene Benachrichtigungssysteme",
@@ -139,7 +139,7 @@
         },
         "block3": {
           "title": "Statusseite",
-          "desc": "Mit Watchbot kannst du die Betriebszeit eines Bots und seine Vorfälle in den letzten 90 Tagen anzeigen."
+          "desc": "Mit Watchbot kannst du die Betriebszeit eines Bots und dessen Vorfälle in den letzten 90 Tagen anzeigen."
         },
         "block4": {
           "title": "Webstatus",
@@ -169,10 +169,10 @@
         }
       },
       "table": {
-        "title": "Schaue dir die Vorteile an, die dir geboten werden.",
+        "title": "Schaue dir die angebotenen Vorteile an.",
         "head": [
           "Plan Vergleich",
-          "kostenlos",
+          "Kostenlos",
           "VIP",
           "VIP+"
         ],
@@ -182,7 +182,7 @@
           "Webstatus - benutzerdefinierter Link",
           "Kanal Warnungen",
           "Kanal Warnungen - Embed",
-          "Privat Nachricht Warnungen",
+          "Privatnachrichten Warnungen",
           "E-Mail Warnungen",
           "Telegram Warnungen",
           "Discord Webhook Warnungen",
@@ -191,19 +191,19 @@
           "Verlauf des Herunterfahrens des Bots*",
           "Personalisierung der Bot Seite*",
           "Bot Seite - benutzerdefinierter Link*",
-          "[API] Rufe Informationen zu Verbindungsabbrüchen von deinen Bots ab*"
+          "[API] Rufe Informationen zu Verbindungsabbrüchen deiner Bots ab*"
         ],
         "erratum": [
-          "*Du musste einen Bot haben",
-          "zertifiziert von Watchbot"
+          "*Du musste einen Bot haben, der",
+          "von Watchbot zertifiziert wurde"
         ]
       }
     },
     "gift": {
       "title": "Oh! Du hast ein Geschenk erhalten.",
       "serveurs": "Bitte wähle einen Server aus.",
-      "noserveurs": "Kein Server gefunden auf diesem Discord Account.",
-      "button": "hinzufügen"
+      "noserveurs": "Kein Server auf diesem Discord Account gefunden.",
+      "button": "Hinzufügen"
     },
     "terms": {
       "titlePage": "Nutzungsbedingungen - Watchbot",
@@ -214,7 +214,7 @@
           "text": [
             "Willkommen auf der Watchbot Internetseite! Diese Nutzungsbedingungen sind eine legale Zustimmung zwischen",
             "(Watchbot Hauptquartier) und dir. Durch surfen, nutzen, besuchen der Seite",
-            "(die \"Seite\") und die Drittanbieter Anwendungen, stimmst du zu die Bedingungen in deinem Land und die",
+            "(die \"Seite\") und die Drittanbieter Anwendungen, stimmst du den Bedingungen in deinem Land und den",
             "Discord Inc. Nutzungsbedingungen gelesen zu haben"
           ]
         },
@@ -223,15 +223,15 @@
           "text": [
             "Diese Seite und all ihre Elemente, Marken, Logos, Computer Grafiken, Fotografien, welche es zusammenstellen sind geschützt unter der internationalen intellektuellem Eigentumsrecht.",
             "Einige Abbildungen auf dieser Seite gehören zu",
-            "und sind geschützt von einer",
-            "Universellen Multimedia-Lizenz",
-            "Jegliche Reproduktion, Repräsentierung, Modifikation, Veröffentlichung, Annahme von allen oder Teilen von diesen Elementen von dieser Seite, was auch immer oder verwendeter Prozess, ist ohne schriftliche Zustimmung der Mareel Group verboten."
+            "und sind geschützt durch eine",
+            "Universelle Multimedia-Lizenz",
+            "Jegliche Reproduktion, Repräsentierung, Modifikation, Veröffentlichung, Annahme von allen Elementen oder Teilen der Elemente dieser Seite, was auch immer der verwendete Prozess sei, ist ohne schriftliche Zustimmung der Mareel Group verboten."
           ]
         },
         {
           "title": "Artikel 3: Benutzung",
           "text": [
-            "Diese Seite ist in verschiedenen Web-Sprachen wie HTML, CSS, etc... angeboten, Für besseren Benutzerkomfort und angenehmen Grafiken, empfehlen wir dir einen modernen Bowser zu benutzen wie Safari, Goodle Chrome, Microsoft Edge etc... Diese Seite nutzt eine Technologie unter JavSript, wenn JavaScript deaktiviert ist wird die Navigation auf der Seite für dich unmöglich sein.",
+            "Diese Seite ist in verschiedenen Web-Sprachen wie HTML, CSS, etc... angeboten, Für besseren Benutzerkomfort und angenehmen Grafiken, empfehlen wir dir einen modernen Bowser zu benutzen wie Safari, Google Chrome, Microsoft Edge etc... Diese Seite nutzt eine Technologie unter JavaSript, wenn JavaScript deaktiviert ist wird die Navigation auf der Seite für Sie unmöglich sein.",
             "Mareel Group unternimmt alle Anstrengungen, um zuverlässige Informationen und eine zuverlässige Aktualisierung ihrer Websites zu gewährleisten. Es können jedoch Fehler auftreten.",
             "Mareel Group und ihre Tochtergesellschaften sind in keiner Weise verantwortlich für die Verwendung dieser Informationen und für direkte oder indirekte Schäden."
           ]
@@ -239,7 +239,7 @@
         {
           "title": "Artikel 4: Hypertext Links und Cookies",
           "text": [
-            "Diese Internetseite und ihre Sub-Domains beinhalten eine Zahl von hypertext links to other sites. Die Internetseite hat keine Möglichkeit, den Inhalt der besuchten Internetseiten zu überprüfen und übernimmt daher keine Haftung für diese Tatsache.",
+            "Diese Internetseite und ihre Sub-Domains beinhalten eine Zahl von hypertext links zu anderen Internetseiten. Die Internetseite hat keine Möglichkeit, den Inhalt der besuchten Internetseiten zu überprüfen und übernimmt daher keine Haftung für diese Tatsache.",
             "Das Durchsuchen der Website kann zur Installation von Cookie(s) auf dem Computer des Benutzers führen. Ein Cookie ist eine kleine Datei, die keine Identifizierung des Benutzers ermöglicht, aber Informationen über die Navigation eines Computers auf einer Website aufzeichnet. Die so gewonnenen Daten sollen die spätere Navigation auf der Seite erleichtern und sollen auch verschiedene Anwesenheitsmaßnahmen ermöglichen."
           ]
         },
@@ -283,7 +283,7 @@
           ]
         },
         {
-          "title": "Artikel 4: Was machen wir mit deinen Daten?",
+          "title": "Artikel 4: Was machen wir mit ihren Daten?",
           "text": [
             "Wir verwenden die von Ihnen bereitgestellten Informationen in Übereinstimmung mit dieser Datenschutzrichtlinie. Wir verwenden Ihre Daten für:",
             "- Zulassen, dass Daten und Einstellungen sicher unter einem Konto gespeichert werden.",
@@ -292,7 +292,7 @@
           ]
         },
         {
-          "title": "Artikel 5: Wie lange speichern wir deine Daten?",
+          "title": "Artikel 5: Wie lange speichern wir ihre Daten?",
           "text": [
             "Alle Ihre auf unseren Servern gespeicherten Daten verbleiben dort, solange Sie unsere Dienste nutzen."
           ]
@@ -310,7 +310,7 @@
         "Watchbot",
         "eine Tochtergesellschaft von Mareel Group."
       ],
-      "title": "vor dem Zugriff auf Watchbot",
+      "title": "Vor dem Zugriff auf Watchbot",
       "text": [
         "Mareel Group. verwendet Cookies und andere Daten, um:",
         "Seitenstatistiken zu messen wodurch wir verstehen wie unser Service genutzt wird."
@@ -323,8 +323,8 @@
       "plug": "Plugins",
       "sett": "Einstellungen",
       "vip": "VIP",
-      "login": "Login",
-      "logout": "ausloggen"
+      "login": "Anmelden",
+      "logout": "Abmelden"
     },
     "pop-up": {
       "warnings": {
@@ -341,11 +341,11 @@
           "Ups!"
         ],
         "chatTelegramDisabled": [
-          "Watchbot is nicht präsent in diesem Chat",
+          "Watchbot ist in diesem Chat nicht präsent",
           "Ups!"
         ],
         "vanityAlreadyExist": [
-          "This VanityURL already exists",
+          "Diese benutzerdefinierte URL existiert bereits",
           "Ups!"
         ],
         "termsNotValid": [
@@ -363,11 +363,11 @@
           "Oh!"
         ],
         "noWebhook": [
-          "Scheint so, als hätte Watchbot keine Berechtigung den Kanal zu sehen/webhooks zu verwalten.",
+          "Scheint so, als hätte Watchbot keine Berechtigung den Kanal zu sehen/Webhooks zu verwalten.",
           "Oh!"
         ],
         "noCNAME": [
-          "Es ist ein problem aufgetreten beim einlesen der CNAME Einträge. Stelle sicher, dass du den geforderten CNAME Eintrag in deiner Domain hinterlegt hast.",
+          "Es ist ein problem beim lesen der CNAME Einträge aufgetreten. Stelle sicher, dass du den geforderten CNAME Eintrag in deiner Domain hinterlegt hast.",
           "Oh!"
         ]
       },
@@ -453,8 +453,8 @@
       },
       "popSave": {
         "txt": "Änderungen festgestellt. Bitte speichern!",
-        "btn_cancel": "abbrechen",
-        "btn_save": "speichern"
+        "btn_cancel": "Abbrechen",
+        "btn_save": "Speichern"
       },
       "modalVip": {
         "title": "Watchbot VIP",
@@ -467,27 +467,27 @@
     },
     "dashboard": {
       "serveurs": "Bitte wähle einen Server aus",
-      "noserveurs": "Kein Server gefunden auf diesem Discord Account",
+      "noserveurs": "Keine Server auf diesem Discord Account gefunden.",
       "bots": "Bitte wähle einen Bot aus",
       "nobots": "Keinen Bot auf diesem Discord Account gefunden",
       "btns": {
-        "manage": "verwalten",
-        "invite": "einladen"
+        "manage": "Verwalten",
+        "invite": "Einladen"
       }
     },
     "bot_customization": {
       "title": "Seitenanpassung",
       "btns": {
-        "save": "speichern",
-        "default": "zurücksetzen"
+        "save": "Speichern",
+        "default": "Zurücksetzen"
       },
       "column1": [
         "Hintergrundfarbe",
         "Hintergrundbild (optional)",
-        "Bot Text Banner Farbe",
-        "Bot Tag Text Farbe",
-        "Text color",
-        "Vorfalls Text Farbe",
+        "Bot Text Bannerfarbe",
+        "Bot Tag Textfarbe",
+        "Textfarbe",
+        "Vorfalls Textfarbe",
         "Ankündings Farbe"
       ],
       "column2": [
@@ -497,7 +497,7 @@
     "bot_history": {
       "title": "Verlauf",
       "form-group": {
-        "title": "Verlauf (letzten 30 Tage)",
+        "title": "Verlauf (letzte 30 Tage)",
         "tableHead": [
           "Datum",
           "Dauer"
@@ -525,7 +525,7 @@
         "Vorfälle",
         "hinzufügen"
       ],
-      "btn": "erstellen",
+      "btn": "Erstellen",
       "forms": {
         "form-group1": {
           "title": "Vorfall Datum"
@@ -533,8 +533,8 @@
         "form-group2": {
           "title": "Typ des Vorfalls",
           "typeList": [
-            "teilweiser Ausfall",
-            "großer Ausfall",
+            "Teilweiser Ausfall",
+            "Großer Ausfall",
             "Wartung",
             "Beeinträchtigte Leistung"
           ]
@@ -547,15 +547,15 @@
     "bot_incidents_edit": {
       "title": "Vorfälle",
       "btns": {
-        "save": "speichern",
+        "save": "Speichern",
         "addStatus": "Status hinzufügen"
       },
       "forms": {
         "form-group1": {
           "title": "Typ des Vorfalls bearbeiten",
           "typeList": [
-            "teilweiser Ausfall",
-            "großer Ausfall",
+            "Teilweiser Ausfall",
+            "Großer Ausfall",
             "Wartung",
             "Beeinträchtigte Leistung"
           ]
@@ -577,7 +577,7 @@
     "bot_overview": {
       "pres": {
         "metrics": {
-          "title": "Schlüssel Metriken",
+          "title": "Schlüsselmetriken",
           "blocks": {
             "title": [
               "Insgesamte Server, auf denen dein Bot offline ist",
@@ -602,7 +602,7 @@
             },
             "block4": {
               "title": "Widgets",
-              "desc": "Ein kleines Widget, für das anzeigen auf deiner Internetseite."
+              "desc": "Ein kleines Widget, für das Anzeigen auf deiner Internetseite."
             }
           }
         }
@@ -613,16 +613,16 @@
         "form-group1": {
           "title": "Automatische Erstellung eines Vorfalls",
           "listInciAuto": [
-            "erstelle keinen Vorfall automatisch",
-            "erstelle einen Vorfall, wenn eine Shard offline geht",
-            "erstelle einen Vorfall, wenn alle Shards offline sind"
+            "Vorfälle nicht automatisch erstellen",
+            "Erstelle einen Vorfall, wenn eine Shard offline geht",
+            "Erstelle einen Vorfall, wenn alle Shards offline sind"
           ]
         },
         "form-group2": {
           "title": "Ankündigung"
         },
         "form-group3": {
-          "title": "benuzerdefinierte Domain",
+          "title": "Benuzerdefinierte Domain",
           "tutorial": {
             "desc": "Füge diesen CNAME-Eintrag in deiner Domain hinzu, indem du deinen DNS-Anbieter oder deine Registrierungsstelle besuchst."
           }
@@ -657,7 +657,7 @@
     },
     "bot_status_edit": {
       "title": "Vorfälle",
-      "btn": "speichern",
+      "btn": "Speichern",
       "forms": {
         "form-group1": {
           "title": "bearbeite das Statusabzeichen",
@@ -688,14 +688,14 @@
         "Bitte wähle eine Rolle aus"
       ],
       "btns": {
-        "save": "speichern"
+        "save": "Speichern"
       },
       "forms": {
         "form-group1": {
           "title": "Kanalwarnungen aktivieren"
         },
         "form-group2": {
-          "title": "Bearbeite den Kanal, in dem du benachrichtigt wirst"
+          "title": "Bearbeite den Kanal, in dem du benachrichtigt werden willst"
         },
         "form-group3": {
           "title": "Bearbeite die Rolle für die Erwähnung"
@@ -703,7 +703,7 @@
         "form-group4": {
           "title": "Bearbeite das Mitglied für die Erwähnung",
           "span": [
-            "Bitte trage ein",
+            "Bitte trage folgendes ein:",
             "USERID"
           ]
         },
@@ -743,11 +743,11 @@
     },
     "guild_alerts_dm": {
       "title": "Direktnachricht Warnungen",
-      "btn": "hinzufügen",
+      "btn": "Hinzufügen",
       "forms": {
         "form-group1": {
           "title": "Hinzufügen der Mitglieder für Warnungen",
-          "btn": "hinzufügen"
+          "btn": "Hinzufügen"
         },
         "form-group2": {
           "title": "Liste der Mitglieder für Warnungen",
@@ -761,13 +761,13 @@
     },
     "guild_alerts_email": {
       "title": "E-Mail Warnungen",
-      "btn": "hinzufügen",
+      "btn": "Hinzufügen",
       "forms": {
         "form-group1": {
           "title": "Füge Mitglieder zu Warnungen hinzu",
           "span": [
             "Bitte trage ein",
-            "E-Mail"
+            "USERID"
           ]
         },
         "form-group2": {
@@ -783,7 +783,7 @@
     },
     "guild_alerts_telegram": {
       "title": "Telegram Warnungen",
-      "btn": "hinzufügen",
+      "btn": "Hinzufügen",
       "forms": {
         "form-group1": {
           "title": "Chat zu Warnungen hinzufügen",
@@ -793,7 +793,7 @@
           ]
         },
         "form-group2": {
-          "title": "Liste von Chats für Warnungen",
+          "title": "Liste an Chats für Warnungen",
           "tableHead": [
             "Nutzername / Gruppen-Name",
             "Chat ID",
@@ -804,13 +804,13 @@
     },
     "guild_alerts_webhook": {
       "title": "Discord Webhook",
-      "btn": "speichern",
+      "btn": "Speichern",
       "forms": {
         "form-group1": {
           "title": "Webhook aktivieren"
         },
         "form-group2": {
-          "title": "Bearbeite den Kanal, indem Benachrichtigungen gesendet werden.",
+          "title": "Bearbeite den Kanal, in dem Benachrichtigungen gesendet werden.",
           "select": "Bitte wähle einen Kanal aus."
         },
         "form-group3": {
@@ -850,7 +850,7 @@
           "blocks": {
             "block1": {
               "title": "Watchlist Bots",
-              "desc": "Füge in die Beobachtungsliste Bots hinzu und werde benachrichtigt, wenn sie offline gehen"
+              "desc": "Füge Bots zur Watchlist hinzu und werde benachrichtigt, wenn diese offline gehen."
             },
             "block2": {
               "title": "Webstatus",
@@ -879,7 +879,7 @@
             },
             "block4": {
               "title": "Telegram",
-              "desc": "Werde benachrichtigt direkt in der Telegram App auf iOS und Android."
+              "desc": "Werde direkt in der Telegram App auf iOS und Android benachrichtigt ."
             },
             "block5": {
               "title": "Discord Webhook",
@@ -903,9 +903,9 @@
           ]
         },
         "form-group2": {
-          "title": "Delay before sending alerts",
+          "title": "Verzögerung vor dem Alarmieren",
           "delayList": [
-            "direkt (0min)",
+            "Direkt (0min)",
             "1 Minute",
             "2 Minuten",
             "3 Minuten",
@@ -926,7 +926,7 @@
       }
     },
     "guild_vip": {
-      "title": "Beeindruckend! Steiger deine Erfahrung",
+      "title": "Beeindruckend! Steigere deine Erfahrung",
       "desc": [
         "Entsperre alle Watchbot Funktionen",
         "Keine Lastschrift"
@@ -936,8 +936,8 @@
         "button": "Starte meine 7-Tage Probezeit"
       },
       "sub": {
-        "title": "Subscription and Billing",
-        "sub": "Subscription",
+        "title": "Abonnements und Rechnung",
+        "sub": "Abonnement",
         "dueDate": "Bis Datum:",
         "payments_history": "Zahlungsverlauf (letzte 30 Tage)"
       },
@@ -956,10 +956,10 @@
       },
       "advantages": {
         "table": {
-          "title": "Sehe die Vorteile, die dir geboten werden:",
+          "title": "Schaue dir die Vorteile, die dir geboten werden:",
           "head": [
             "Plan Vergleich",
-            "kostenlos",
+            "Kostenlos",
             "VIP",
             "VIP+"
           ],
@@ -969,7 +969,7 @@
             "Webstatus - benutzerdefinierter Link",
             "Kanal Warnungen",
             "Kanal Warnungen - Embed",
-            "Direkt Nachrichten Warnungen",
+            "Direktnachrichten Warnungen",
             "E-Mail Warnungen",
             "Telegram Warnungen",
             "Discord Webhook Warnungen",
@@ -994,17 +994,17 @@
         "desc": [
           "Du hast das limit an Bots erreicht, die in deinem Angebot enthalten sind. Bitte",
           "ändere dein Angebot",
-          "oder entferne Bots aus deiner Beobachtungsliste."
+          "oder entferne Bots aus deiner Watchlist."
         ]
       },
       "forms": {
         "form-group1": {
           "title": "Füge einen Bot zur Überwachung hinzu",
-          "btn": "hinzufügen"
+          "btn": "Hinzufügen"
         },
         "form-group2": {
-          "title": "Watchliste",
-          "modalHelp": "Als Hinweis, wenn du Warnungen in der Tabelle unten aktivierst/deaktivierst, stelle sicher das du diese Warnungen vorher konfiguriert hast.",
+          "title": "Watchlist",
+          "modalHelp": "Wenn du Warnungen in der Tabelle unten aktivierst/deaktivierst, stelle sicher das du Warnungen vorher konfiguriert hast.",
           "tableHead": [
             "Kanal Warnungen",
             "DM Warnungen",
@@ -1017,7 +1017,7 @@
     },
     "guild_webstatus": {
       "title": "Webstatus",
-      "btn": "speichern",
+      "btn": "Speichern",
       "forms": {
         "form-group1": {
           "title": "Aktivierung Webstatus",
@@ -1027,7 +1027,7 @@
           ]
         },
         "form-group2": {
-          "title": "benutzerdefinierter Link"
+          "title": "Benutzerdefinierter Link"
         }
       }
     },
@@ -1039,7 +1039,7 @@
         },
         "form-group2": {
           "temp": "Dieses System ist (derzeit) nur für 25 Bots verfügbar.",
-          "title": "bearbeite den Kanal in dem das Embed gesendet wird.",
+          "title": "Bearbeite den Kanal in dem das Embed gesendet werden soll.",
           "select": "Bitte wähle einen Kanal aus"
         },
         "form-group3": {
@@ -1057,7 +1057,7 @@
               ]
             ],
             "footer": [
-              "letztes Update:",
+              "Letztes Update:",
               "heute 6:42pm"
             ]
           }
@@ -1088,22 +1088,22 @@
     },
     "bots": {
       "title": "Bot Zertifizierungsbewerbung",
-      "btn": "senden",
-      "back": "zurück",
+      "btn": "Senden",
+      "back": "Zurück",
       "userInfo": {
         "welcome": "Hi,",
-        "tag": "Username",
+        "tag": "Benutzername",
         "email": "E-Mail"
       },
       "fields": {
         "email": "E-Mail Adresse",
-        "owner": "Besitzer ID",
+        "owner": "Owner ID",
         "bot": "Bot ID",
         "support": "Support Server ID",
         "support_invite": "Support Server Einladung",
         "terms": [
           "Indem Sie auf \"Senden\" klicken, übermitteln Sie die oben genannten Informationen an Watchbot",
-          "wer sie verwendet, um sie an das Team zu senden, das sich um Ihre Zertifizierungsanfrage kümmert. Sie erhalten eine E-Mail-Benachrichtigung, um zu erfahren, ob Ihre Anfrage angenommen oder abgelehnt wurde (überprüfen Sie regelmäßig Ihren SPAM). Ihre Daten werden nicht für andere Zwecke verwendet oder weitergegeben. Sie haben das Recht, die Übertragbarkeit Ihrer Daten zu verlangen, Ihre Einwilligung jederzeit zu widerrufen und die Verarbeitung Ihrer personenbezogenen Daten abzulehnen oder die Einschränkung zu verlangen. Für weitere Informationen laden wir Sie ein, uns eine E-Mail an certifiers@watchbot.app zu senden"
+          "der sie verwendet, um sie an das Team zu senden, das sich um Ihre Zertifizierungsanfrage kümmert. Sie erhalten eine E-Mail-Benachrichtigung, um zu erfahren, ob Ihre Anfrage angenommen oder abgelehnt wurde (überprüfen Sie regelmäßig Ihren SPAM Ordner). Ihre Daten werden nicht für andere Zwecke verwendet oder weitergegeben. Sie haben das Recht, die Übertragbarkeit Ihrer Daten zu verlangen, Ihre Einwilligung jederzeit zu widerrufen und die Verarbeitung Ihrer personenbezogenen Daten abzulehnen oder die Einschränkung zu verlangen. Für weitere Informationen laden wir Sie ein, uns eine E-Mail an certifiers@watchbot.app zu senden"
         ]
       },
       "sent": {
@@ -1115,6 +1115,6 @@
   "login": {
     "title": "Willkommen auf der Watchbot Internetseite",
     "desc": "Melde dich an, um fortzufahren",
-    "button": "Login mit Discord"
+    "button": "Melde dich mit Discord an"
   }
 }
